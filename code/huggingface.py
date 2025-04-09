@@ -9,7 +9,7 @@ import sys
 
 client = InferenceClient(
    model="tiiuae/falcon-7b-instruct",
-   token="ypur_token",  # replace with your hugging face api token
+   token="your_token",  # replace with your hugging face api token
 )
 
 def sql_query(natural_language):
