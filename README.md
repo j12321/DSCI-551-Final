@@ -14,4 +14,5 @@
 3. Get the Endpoint Url after starting the endpoint
 4. Replace your hugging face token at line 13
 5. Replace your Endpoint Url at line 14
+
 !! Make sure to stop the endpoint while not using. The charge rate is $3.8/ hr
